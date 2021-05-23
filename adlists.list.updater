@@ -4,6 +4,8 @@ https://dbl.oisd.nl/
 https://hblock.molinero.dev/hosts_domains.txt
 # Spotify ads
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
+# Firestick
+https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
 # phishing / spam / abuse / malicious / malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
