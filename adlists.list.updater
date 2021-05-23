@@ -4,6 +4,7 @@ https://dbl.oisd.nl/
 https://hblock.molinero.dev/hosts_domains.txt
 # Spotify ads
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
+https://github.com/ftpmorph/ftprivacy/blob/master/blocklists/spotify-ads-tracking.txt
 # Firestick
 https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
 # phishing / spam / abuse / malicious / malware
@@ -20,4 +21,4 @@ https://blocklistproject.github.io/Lists/scam.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts1.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts2.txt
-https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts3.txt
+https://github.com/ftpmorph/ftprivacy/blob/master/blocklists/xiaomi-ads-tracking.txt
