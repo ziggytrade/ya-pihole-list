@@ -6,6 +6,7 @@ https://hblock.molinero.dev/hosts_domains.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
 # Firestick
 https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 # phishing / spam / abuse / malicious / malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
@@ -29,3 +30,12 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://mkb2091.github.io/blockconvert/output/domains.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+# probably overkill
+# https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+# https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
+# https://kriskintel.com/feeds/ktip_covid_domains.txt
+# https://kriskintel.com/feeds/ktip_malicious_domains.txt
+# https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+#https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+#https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
